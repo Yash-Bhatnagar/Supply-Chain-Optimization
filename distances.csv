@@ -1,0 +1,43 @@
+Center,Region,Distance
+Center A,Downtown Toronto,25.77
+Center A,East York,2.24
+Center A,Etobicoke,25.72
+Center A,Mississauga East,28.65
+Center A,North Toronto,11.64
+Center A,North York,0
+Center A,Scarborough East,19.76
+Center B,Downtown Toronto,29.88
+Center B,East York,16.04
+Center B,Etobicoke,31.11
+Center B,Mississauga East,33.93
+Center B,North Toronto,25.05
+Center B,North York,22.98
+Center B,Scarborough East,0
+Center C,Downtown Toronto,19.1
+Center C,East York,22.45
+Center C,Etobicoke,26.93
+Center C,Mississauga East,21.58
+Center C,North Toronto,22.99
+Center C,North York,20.52
+Center C,Scarborough East,14.86
+Center D,Downtown Toronto,29.88
+Center D,East York,16.04
+Center D,Etobicoke,31.11
+Center D,Mississauga East,0
+Center D,North Toronto,25.05
+Center D,North York,22.98
+Center D,Scarborough East,26.78
+Center E,Downtown Toronto,6.37
+Center E,East York,20.93
+Center E,Etobicoke,23.2
+Center E,Mississauga East,20.65
+Center E,North Toronto,0
+Center E,North York,11.64
+Center E,Scarborough East,25.89
+Center F,Downtown Toronto,18.83
+Center F,East York,30.7
+Center F,Etobicoke,25.64
+Center F,Mississauga East,0
+Center F,North Toronto,20.65
+Center F,North York,28.65
+Center F,Scarborough East,17.01
